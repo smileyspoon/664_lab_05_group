@@ -1,5 +1,4 @@
-= Lab 05 Work management with Teams and Github
-
+Calvin changes
 ==  Overview
 
 This will be another relatively light lab, as we continue to get caught up on the technical labs from Context 1. 
